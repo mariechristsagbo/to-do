@@ -6,7 +6,6 @@ A simple and effective application for managing your daily task list. It is buil
 
 ### Features
 - Add new tasks
-- Mark tasks as completed
 - Delete tasks
 
 ### Technologies Used
